@@ -52,9 +52,10 @@ section#redes-sociais img {
 }
 
 section#redes-sociais {
-    text-align: right; 
-    position: relative;
-    top: 25.5%;
+    /* text-align: right; */
+    position: fixed;
+    bottom: 25.5%;
+    right: 0%;
 }
 
 section#redes-sociais img:hover {
